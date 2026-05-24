@@ -1,0 +1,18 @@
+name: CustomEnchantmentUpgrader
+main: com.github.hwan.ceu.CustomEnchantmentUpgrader
+author: Hwan
+version: ${project.version}
+api-version: 1.13
+softdepend: [XConomy, PlayerPoints]
+commands:
+  ceu:
+    description: "Custom Enchantment Upgrader 主命令"
+    usage: "/ceu <命令> [选项]"
+    aliases: [ ceu ]
+permissions:
+  ceu.user:
+    description: "CEU 用户基础命令"
+    default: true
+  ceu.admin:
+    description: "CEU 管理员命令"
+    default: op
