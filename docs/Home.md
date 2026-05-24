@@ -1,4 +1,4 @@
-# CustomEnchantmentUpgrader Wiki
+# Custom Enchantment Upgrader Wiki
 
 ![CEU](./docs/assets/CEU.png)
 

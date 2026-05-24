@@ -1,4 +1,4 @@
-# CustomEnchantmentUpgrader
+# Custom Enchantment Upgrader
 
 ![CEU](./docs/assets/CEU.png)
 
